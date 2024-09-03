@@ -1,0 +1,31 @@
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\Interface Sangrai Kopi.exe.config
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\Interface Sangrai Kopi.exe
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\Interface Sangrai Kopi.pdb
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\Interface Sangrai Kopi.xml
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\touchlesslib.dll
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.vbprojResolveAssemblyReference.cache
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface_Sangrai_Kopi.Form1.resources
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface_Sangrai_Kopi.Resources.resources
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.vbproj.GenerateResource.Cache
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.exe
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.xml
+D:\File Pribadi\Proyek Sangrai Kopi\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.pdb
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\Interface Sangrai Kopi.exe.config
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.exe
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.xml
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.pdb
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.vbprojResolveAssemblyReference.cache
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface_Sangrai_Kopi.Form1.resources
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface_Sangrai_Kopi.Resources.resources
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.vbproj.GenerateResource.Cache
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\Interface Sangrai Kopi.exe
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\Interface Sangrai Kopi.pdb
+F:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\Interface Sangrai Kopi.xml
+D:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\Interface Sangrai Kopi.exe.config
+D:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.exe
+D:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.xml
+D:\Proyek Sangrai Kopi Univ. Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.pdb
+D:\Proyek - Proyek\TA - Sangrai Kopi Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\bin\Debug\Interface Sangrai Kopi.exe.config
+D:\Proyek - Proyek\TA - Sangrai Kopi Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.exe
+D:\Proyek - Proyek\TA - Sangrai Kopi Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.xml
+D:\Proyek - Proyek\TA - Sangrai Kopi Bhayangkara\Interface Sangrai Kopi\Interface Sangrai Kopi\obj\Debug\Interface Sangrai Kopi.pdb
